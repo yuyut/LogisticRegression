@@ -1,5 +1,7 @@
 # LogisticRegression
 
+Better Note Link:https://hackmd.io/@mt5ULZ3qQxicwY9i9Xal2g/r1EnODBkd
+
 This task is to predict whether the person’s annual income is greater than 50K from the given personal information. 
 Dataset: A total of 32561 training data and 16,281 test data (8140 in private test set and 8141 in public test set)
 
